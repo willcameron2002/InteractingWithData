@@ -98,7 +98,7 @@ footer a:link, footer a:visited {
 
 .header {
 	background-image: url(../images/header.png);
-	height: 80%;
+	height: 100%;
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
