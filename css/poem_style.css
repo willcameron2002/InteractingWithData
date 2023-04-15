@@ -96,8 +96,8 @@ footer a:link, footer a:visited {
   display: table;
 } 
 
-.image1 {
-	background-image: url(../images/categories.html);
+.header {
+	background-image: url(../images/header.png);
 	height: 80%;
 	background-attachment: fixed;
 	background-position: center;
@@ -105,22 +105,4 @@ footer a:link, footer a:visited {
 	background-size: cover;
 }
 
-.image2 {
-	background-image: url(../images/bubble.html);
-	height: 100%;
-	background-attachment: fixed;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-
-.image3 {
-	background-image: url(../images/map.html);
-	height: 80%;
-	background-attachment: fixed;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-  
 
