@@ -114,4 +114,11 @@ footer a:link, footer a:visited {
 	color: #000;
 }
 
+.caption span.border {
+	background-color: #111;
+	color: #fff;
+	padding: 18px;
+	font-size: 26px;
+	letter-spacing: 5px;
+}
 
